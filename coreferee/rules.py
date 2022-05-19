@@ -82,7 +82,7 @@ class RulesAnalyzer(ABC):
     # e.g. [('“', '”')]
     quote_tuples: List[Tuple[str, str]] = NotImplemented
 
-    # Dependency labals that mark dependent siblings
+    # Dependency labels that mark dependent siblings
     dependent_sibling_deps: Tuple = NotImplemented
 
     # Dependency labels that mark linking elements in a conjunction phrase.
