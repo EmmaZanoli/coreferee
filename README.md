@@ -1,3 +1,13 @@
+# Coreferee-it
+
+Roadmap to coreferee-it: adding Italian to the languages available in [coreferee](https://github.com/explosion/coreferee).
+
+If you want to contribute in this direction, you can get started by reading the introduction provided below. The most important section for the purposes of this repository is [4. Adding support for a new language](#adding-support-for-a-new-language). Out of the outlined steps, 1 and 2 are done, while 3 is underway (see [language_specific_rules.py](https://github.com/EmmaZanoli/coreferee-it/blob/87ba8132c16df9bad57e3bb4af24cb95aba7f8f3/coreferee/lang/it/language_specific_rules.py)).
+
+_as of now, everything below this line is identical to the original [coreferee repository](https://github.com/explosion/coreferee)_
+
+------
+
 # Coreferee
 
 Author: <a href="mailto:richard@explosion.ai">Richard Paul Hudson, Explosion AI</a>
